@@ -1,2 +1,2 @@
-# 5iec-graphical-programming
-5IEC Graphical Programming
+# 7iec-intro-coding
+7IEC Introduction to Coding
